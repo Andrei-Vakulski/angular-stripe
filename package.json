@@ -38,9 +38,6 @@
     "stripe-debug": "~2.0.0",
     "zuul": "~3.9.0"
   },
-  "peerDependencies": {
-    "angular": ">=1.3 <=1.6"
-  },
   "dependencies": {
     "angular-assert-q-constructor": "~1.0.1",
     "stripe-as-promised": "~2.0.0"
